@@ -1,5 +1,6 @@
 # Keyboard project 👨‍💻
 > In this project we have a simple keyboard that is responsive with dark mode and light mode design.
+> > The output (style.css) file got minified 🤏.
 <br>
 
 ```javascript
