@@ -1,6 +1,7 @@
 # Keyboard project 👨‍💻
 > In this project we have a simple keyboard that is responsive with dark mode and light mode design.
 > > The output (style.css) file got minified 🤏.<br>
+>> Try Free <a href="https://ali-boorboor.github.io/keyboard-project/">Demo</a><br>
 ```It has a little affect when you hover over the buttons```
 <br>
 
